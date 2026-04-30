@@ -3,7 +3,7 @@
 ## Requirements
 pip install torch h5py scipy numpy matplotlib
 ## Run Training
-1. Upload SoliData.zip to /content/
+1. Upload SoliData.zip 
 2. Open soli_gan.ipynb in Google Colab
 3. Run cells 1–13 top to bottom
 ## Run Testing Only
