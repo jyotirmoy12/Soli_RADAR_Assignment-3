@@ -22,4 +22,4 @@ pred = C.predict(x.to(device)).argmax(dim=1).item()
 
 
 ## Pretrained Model
-[ full_fold0_best.pt]
+[ full_fold1_best.pt]
